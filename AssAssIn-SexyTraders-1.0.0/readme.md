@@ -1,1 +1,0 @@
-this doesnt actually work as a mod yet, so you need to drop the res folder in your main server folder
