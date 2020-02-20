@@ -63,3 +63,9 @@ Allows user to attach all Ops-Core Fast MT Accessories
 
 ### Vengeance-T5000127x108-1.0.0 - Made by Vengeance
 Stand alone T-5000 with 12.7X108mm 
+
+### Frumorn-DrumVest-1.0.0 - Made by Frumorn
+This make a vest with multiples slots for drum mags
+
+### Grasyl-GiantStash-1.0.0 - Made by Grasyl
+This mod enlarges the stash of all editions of the game by 100 tiles vertically.
