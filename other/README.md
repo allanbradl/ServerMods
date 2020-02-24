@@ -5,7 +5,7 @@ This folder contain all mods that are not related to any other folder in the rep
 ## Mod list and description
 
 
-### EmuTarkov-HardcoreMode
+### EmuTarkov-HardcoreMode-1.0.0
 
 Carefully read the mod readme when you're setting it up
 
