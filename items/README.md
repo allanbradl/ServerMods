@@ -57,15 +57,15 @@ This pack of mods makes the AR-10, AVDS, and M14 all full auto, among other smal
 ### MacrossMX-CleanNVG-1.0.0
 This mod changes night vision goggles to be better
 
-## MacrossMX-M4-1.0.0
+### MacrossMX-M4-1.0.0
 Adds a new M4A1 receiver that replaces the full-auto with a 3 round burst. NOTE: Make sure this is above AssAssIn's Olympus if you are using it
 
-## Miku-CaseInPouch-1.0.0
+### Miku-CaseInPouch-1.0.0
 This mod allows you to place certain cases in the pouch slot
 
-## Miku-InventoryQOL-1.0.0
+### Miku-InventoryQOL-1.0.0
 
-## Miku-NoHolsterRestriction-1.0.0
+### Miku-NoHolsterRestriction-1.0.0
 This mod makes it so you can have a primary weapon in the pistol slot
 
 ### Sorata-EquipRigsWithArmors-1.0.0 - Made by Sorata
@@ -80,7 +80,7 @@ This mod is increasing all amoo max stacks up to 350.
 ### Sorata-IncreasedMoneyStacks-1.0.0 - Made by Sorata
 Money now stacks up to piles of 10mil instead of 500k.
 
-## StealtH-BetterRonin-1.0.0
+### StealtH-BetterRonin-1.0.0
 Makes the Ronin helmet better in numerous ways, such as increasing armor class and removing hearing, movement and speed penalties
 
 ### StealtH-PmagVal-1.0.0 - Made by Stealth
@@ -89,5 +89,5 @@ This mod makes the PMAG compatible with the AS VAL so that the gun has a 60 roun
 ### Vengeance-T5000127x108-1.0.0 - Made by Vengeance
 Stand alone T-5000 with 12.7X108mm 
 
-## Zarf-AP20Buff-1.0.0
+### Zarf-AP20Buff-1.0.0
 This mod increases the penetration of the AP-20 12 gauge ammo
