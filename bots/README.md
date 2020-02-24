@@ -7,4 +7,4 @@ Replaces the Bear and USEC PMC bot names with the names of the top ~1,700 player
 
 
 ### Sorata-AdvancedBotLoadouts-1.0.8 - Made by Sorata
-This mod aims to add more bots presets to the game, with randomized generated presets for PMC, Scav, Raider, and boss inventories.
+This mod aims to add more bots presets to the game, with randomized generated presets for PMC, Scav, Raider, and boss inventories and gears.
