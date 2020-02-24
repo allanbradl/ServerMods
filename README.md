@@ -13,9 +13,11 @@ A repository containing mods made for the EmuTarkov-Server
 4. Start the server & the game
 
 ## Note:
+
 The Author name is the first part of the folder name<br>
 The name of the mod, is the second part of the folder name<br>
 The version number is the third part of the folder name<br>
+
 eg : EmuTarkov-EnableMultiplayerMod-1.0.0<br>
 EmuTarkov is the author, EnableMultiplayerMod is the name, 1.0.0 is the version number<br>
 
