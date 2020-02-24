@@ -42,11 +42,11 @@ This mod enlarges the stash of all editions of the game by 100 tiles vertically.
 ### Grasyl-GiantStash-1.0.0 - Made by Grasyl
 This mod enlarges the stash of all editions of the game by 100 tiles vertically.
 
-### MacrossMX-CleanNVG - Made by MacrossMX
+### MacrossMX-CleanNVG-1.0.0 - Made by MacrossMX
 All NVG modified with a clearer picture, wide view, and lower intensity for reduced glare. 
 In addition, the PVN-10T uses the same color filter as the Armasight N-15.
 
-### Micro-QOL - Made by Micro
+### Micro-QOL-1.0.0 - Made by Micro
 My qol mod - Changed money stacks to one mill. Ammo to 500, keytool 10x10 size, army banage 4 uses. Next update is changing the description of ammo to tell you what it penetrates also other medical changes as well.
 
 ### Jackal-ShortySR25-1.0.0
