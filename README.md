@@ -14,6 +14,7 @@ A repository containing mods made for the EmuTarkov-Server
 
 ## Note:
 
+#### Folder Name Structure
 The Author name is the first part of the folder name<br>
 The name of the mod, is the second part of the folder name<br>
 The version number is the third part of the folder name<br>
