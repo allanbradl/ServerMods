@@ -3,69 +3,91 @@ This folder contain all items related mods for JustEmuTarkov
 ## Mod list and description
 
 
+### AssAssIn-Olympus-1.0.0 - Made by AssAssIn
+This mod adds in overpowered armor, magazines with 1000 ammo capacity, overpowered meds, an extra large backpack, and increases all ammo stacks to 1000
 
-### Sorata-EquipRigsWithArmors - Made by Sorata
-This mod is making all armoreds rigs to be equipable with armors again.
+### Blyto-FullFastV1-1.0.0 - Made by Blyto
+Allows user to attach all Ops-Core Fast MT Accessories
 
-### Sorata-FreeSecureContainer - Made by Sorata
-This mod is removing all secure containers filters, so you can put it back weapons, gears and so on. The Kappa Container is edited to be bigger.
+### EmuTarkov-AllItemsExamined-1.0.0
+This mod makes it so all items are examined by default
 
-### Sorata-IncreasedAmmoStacks - Made by Sorata
-This mod is increasing all amoo max stacks up to 350.
+### Frumorn-Auto17-1.0.0 - Made by Frumorn
+Adds fullauto at 1200 rounds per minute to glock17 so you can keep muzzle attachment without using glock18c
 
-### AssAssIn-GodArmor - Made by AssAssIn
-This mod add an overpowereded armor to the game.
+### Frumorn-AutoM1A-1.0.0 - Made by Frumorn
+Adds fullauto with at 700 rounds per minute
 
-### AssAssIn-GodMag - Made by AssAssIn
-This mod add some overpowered mag to the game for each caliber.
+### Frumorn-AutoSR25-1.0.0 - Made by Frumorn
+Adds fullauto with at 700 rounds per minute
 
-### AssAssIn-GodMed - Made by AssAssIn
-This mod add an overpowereded med to the game.
+### Frumorn-AutoSaiga12-1.0.0 - Made by Frumorn
+Adds fullauto with at 300 rounds per minute
 
-### AssAssIn-Olympus - Made by AssAssIn
-This mod compile all God** mods into one.
+### Frumorn-BossPockets-1.0.0 - Made by Frumorn
+This replaces the pockets of the player and non-boss NPCs with four 2x1 pockets
 
-### Frumorn-NadeCaseR22 - Made by Frumorn
-This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 rubles, compatible with R22.
+### Frumorn-DrumVest-1.0.0 - Made by Frumorn
+This make a vest with four 2x2 slots that can fit drum mags
 
-### Frumorn-NadeCaseR23 - Made by Frumorn
-This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 rubles, compatible with R23.
+### Frumorn-FullGen4Plus-1.0.0 - Made by Frumorn
+Tweaks Gen4 Full protection armor to actually be full protection (adds right and left leg protection), tweaks durability to be higher, cost should be higher at trader too and slightly increased debuffs for balancing
 
-### Sorata-IncreasedMoneyStacks - Made by Sorata
-Money now stacks up to piles of 10mil instead of 500k.
+### Frumorn-NadeCaseR23-1.0.0 - Made by Frumorn
+This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 rubles
 
-### MacrossMX-CleanNVG - Made by MacrossMX
+### Grasyl-GiantKeytool-1.0.0 - Made by Grasyl
+This mod enlarges the stash of all editions of the game by 100 tiles vertically.
+
+### Grasyl-GiantStash-1.0.0 - Made by Grasyl
+This mod enlarges the stash of all editions of the game by 100 tiles vertically.
+
+### MacrossMX-CleanNVG-1.0.0 - Made by MacrossMX
 All NVG modified with a clearer picture, wide view, and lower intensity for reduced glare. 
 In addition, the PVN-10T uses the same color filter as the Armasight N-15.
 
-### Micro-QOL - Made by Micro
+### Micro-QOL-1.0.0 - Made by Micro
 My qol mod - Changed money stacks to one mill. Ammo to 500, keytool 10x10 size, army banage 4 uses. Next update is changing the description of ammo to tell you what it penetrates also other medical changes as well.
 
-### Frumorn-AutoSaiga12 - Made by Frumorn
-fullauto with 300 firerate
-tiny tweaks make some weapons noticeably different lol
+### Jackal-ShortySR25-1.0.0
 
-### Frumorn-Auto17 - Made by Frumorn
-Adds fullauto at 1200 rounds per minute to glock17 so you can keep muzzle attachment without using glock18c
+### MacrossMX-Battle_Rifle_Pack-1.0.0
+This pack of mods makes the AR-10, AVDS, and M14 all full auto, among other small changes
 
-### Frumorn-FullGen4Plus - Made by Frumorn
-Tweaks Gen4 Full protection armor to actually be full protection (adds right and left leg protection), tweaks durability to be higher, cost should be higher at trader too and slightly increased debuffs for balancing
+### MacrossMX-CleanNVG-1.0.0
+This mod changes night vision goggles to be better
 
-### StealtH-PmagVal - Made by Stealth
-Do you love using the AS VAL but hate that it goes through the 30 round mags like a depressed woman goes through ice cream?
+### MacrossMX-M4-1.0.0
+Adds a new M4A1 receiver that replaces the full-auto with a 3 round burst. NOTE: Make sure this is above AssAssIn's Olympus if you are using it
 
-Well look no further, I chose to make the PMAG fit the AS VAL because any other 60 rounder would look stupid, enjoy.
+### Miku-CaseInPouch-1.0.0
+This mod allows you to place certain cases in the pouch slot
 
-Basically makes the PMAG compatible with the AS VAL.
+### Miku-InventoryQOL-1.0.0
 
-### Blyto-FullFastV1 - Made by Blyto
-Allows user to attach all Ops-Core Fast MT Accessories
+### Miku-NoHolsterRestriction-1.0.0
+This mod makes it so you can have a primary weapon in the pistol slot
+
+### Sorata-EquipRigsWithArmors-1.0.0 - Made by Sorata
+This mod is making all armoreds rigs to be equipable with armors again.
+
+### Sorata-FreeSecureContainer-1.0.0 - Made by Sorata
+This mod is removing all secure containers filters, so you can put it back weapons, gears and so on. The Kappa Container is edited to be bigger.
+
+### Sorata-IncreasedAmmoStacks-1.0.0 - Made by Sorata
+This mod is increasing all amoo max stacks up to 350.
+
+### Sorata-IncreasedMoneyStacks-1.0.0 - Made by Sorata
+Money now stacks up to piles of 10mil instead of 500k.
+
+### StealtH-BetterRonin-1.0.0
+Makes the Ronin helmet better in numerous ways, such as increasing armor class and removing hearing, movement and speed penalties
+
+### StealtH-PmagVal-1.0.0 - Made by Stealth
+This mod makes the PMAG compatible with the AS VAL so that the gun has a 60 round magazine
 
 ### Vengeance-T5000127x108-1.0.0 - Made by Vengeance
 Stand alone T-5000 with 12.7X108mm 
 
-### Frumorn-DrumVest-1.0.0 - Made by Frumorn
-This make a vest with multiples slots for drum mags
-
-### Grasyl-GiantStash-1.0.0 - Made by Grasyl
-This mod enlarges the stash of all editions of the game by 100 tiles vertically.
+### Zarf-AP20Buff-1.0.0
+This mod increases the penetration of the AP-20 12 gauge ammo

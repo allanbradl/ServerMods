@@ -5,6 +5,6 @@ This folder contain all mods that are quest related mods.
 ## Mod list and description
 
 
-### EmuTarkov-AllQuestsAvailable
-This mod let you take any quests, without any conditions between each quests
+### EmuTarkov-AllQuestsAvailable-1.0.0
+This mod let you take any quests, regardless of order and level
 
