@@ -3,8 +3,8 @@ This folder contain all bots related mods for JustEmuTarkov
 ## Mod list and description
 
 ### Beaubot-RenamedBots - Made by @Beaubot
-Gives PMC bots real names that show up when they're killed, taken straight from the official EFT leaderboards)!
+Replaces the Bear and USEC PMC bot names names with the names of the top ~1,700 players that were listed on the official EFT leaderboards.
 
 
 ### Sorata-AdvancedBotLoadouts - Made by Sorata
-This mod aim to add more bots presets to the game, with randomized generated presets for there inventory and gears.
+This mod aims to add more bots presets to the game, with randomized generated presets for PMC, Scav, Raider, and boss inventories.
