@@ -2,7 +2,7 @@
 This folder contain all bots related mods for JustEmuTarkov
 ## Mod list and description
 
-### Beaubot-RenamedBots-1.0.0 - Made by @Beaubot
+### Beaubot-RenamedBots-1.0.0 - Made by Beaubot
 Replaces the Bear and USEC PMC bot names with the names of the top ~1,700 players that were listed on the official EFT leaderboards.
 
 
