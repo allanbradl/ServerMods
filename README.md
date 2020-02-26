@@ -7,31 +7,24 @@ A repository containing mods made for the EmuTarkov-Server
 
 ## How to install a mod ?
 
-1. Add the desired mod folder into ```/user/mods/```
-2. Add this code in ```/user/server.config.json```:
-```json
-{
-    "name": "Name of the Mod",
-    "author": "Author of the mod",
-    "version": "Mod version",
-    "enabled": true
-}
-```
-and replace
-- ```Name of the Mod``` with the name of the desired mod
-- ```Author of the mod``` with the name of the author from the desired mod
-- ```Mod version``` with the version of the desired mod (found in mod.config.json inside the mod folder)
-
-3. The server will automaticaly recache
+1. Download the desired mod(s)
+2. Add the desired mod folder into ```/user/mods/```
+3. The server will automaticaly recache and modify server.config.json to activate the installed mod(s)
 4. Start the server & the game
 
 ## Note:
+
+#### Folder Name Structure
 The Author name is the first part of the folder name<br>
 The name of the mod, is the second part of the folder name<br>
-eg : TheMaoci-EnableMultiplayerMod<br>
-TheMaoci is the author, EnableMultiplayerMod is the name<br>
+The version number is the third part of the folder name<br>
+
+eg : EmuTarkov-EnableMultiplayerMod-1.0.0<br>
+EmuTarkov is the author, EnableMultiplayerMod is the name, 1.0.0 is the version number<br>
 
 # Official links
-**Discord link**: https://discord.gg/JnJEev4
+**Discord link**: https://discord.gg/dVJcPsv
+
+**Modding Tutorials**: https://github.com/KandaSoranyan/JustEmuTarkovWiki
 
 **Reddit page**: https://www.reddit.com/r/EmuTarkov/
