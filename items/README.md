@@ -56,14 +56,14 @@ This mod enlarges the stash of all editions of the game by 100 tiles vertically.
 
 ### Jackal-ShortySR25-1.0.0 - Made by Jackal
 
-### MacrossMX-Battle_Rifle_Pack-1.0.0
+### MacrossMX-Battle_Rifle_Pack-1.0.0 - Made by MacrossMX
 This pack of mods makes the AR-10, AVDS, and M14 all full auto, among other small changes.
 
 ### MacrossMX-CleanNVG-1.0.0 - Made by MacrossMX
 All NVG modified with a clearer picture, wide view, and lower intensity for reduced glare. 
 In addition, the PVN-10T uses the same color filter as the Armasight N-15.
 
-### MacrossMX-M4-1.0.0
+### MacrossMX-M4-1.0.0 - Made by MacrossMX
 Adds a new M4A1 receiver that replaces the full-auto with a 3 round burst. NOTE: Make sure this is above AssAssIn's Olympus if you are using it.
 
 ### Micro-QOL-1.0.0 - Made by Micro
@@ -81,10 +81,10 @@ This mod makes it so you can have a primary weapon in the pistol and melee weapo
 This mod makes all armored rigs to be equippable with armors again.
 
 ### Sorata-FreeSecureContainer-1.0.0 - Made by Sorata
-This mod is removing all secure containers filters, so you can put it back weapons, gears and so on. The Kappa Container is edited to be bigger.
+This mod removes all secure containers filters, so you can now put in weapons, gears and so on. The Kappa Container is increased in size to 6x6.
 
 ### Sorata-IncreasedAmmoStacks-1.0.0 - Made by Sorata
-This mod is increasing all ammo max stacks up to 350.
+This mod increases all ammo max stacks up to 350.
 
 ### Sorata-IncreasedMoneyStacks-1.0.0 - Made by Sorata
 Money now stacks up to piles of 10 million instead of 500k.
