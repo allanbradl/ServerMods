@@ -100,3 +100,6 @@ Stand alone T-5000 with 12.7X108mm.
 
 ### Zarf-AP20Buff-1.0.0 - Made by Zarf
 This mod increases the penetration of the AP-20 12 gauge ammo.
+
+### BALIST0N-BetterAKS74U-1.0 - Made by BALIST0N
+This mod aim to extend the number of compatible parts with all 3 AKS-74U
