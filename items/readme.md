@@ -103,3 +103,12 @@ This mod increases the penetration of the AP-20 12 gauge ammo.
 
 ### BALIST0N-BetterAKS74U-1.0 - Made by BALIST0N
 This mod aim to extend the number of compatible parts with all 3 AKS-74U
+
+### XKyLe-SuperIfak-1.0.0- Made by XKyLe
+"Removes bloodloss, fracture, pain, contusion, toxication, radExposure and destroyedPart. MaxHpResource increased to 3000. hpResourceRate to 200"
+
+### X-KyLe-UnlimitedKeys-1.0.0 - Made by XKyLe
+Limited-use restriction of keys and access cards has been removed.
+
+### Yasin-AmmoStacksDamage-1.0.0 - Made by Yasin
+Ammo Stacks + Damage and Armor Damage Settings Increased!
