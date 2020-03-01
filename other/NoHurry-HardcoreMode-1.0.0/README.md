@@ -3,7 +3,10 @@
 - requires profile wipe
 
 ## Setup
-- set the edition in ```user/profiles/list.json``` of your desired profile to ```hardcore```
+1. open `user/profiles.config.json`
+2. set the edition of your desired profile to `hardcore`
+3. set wipe of the desired profile to true
+4. save changes
 
 ## Info
 The mod does the following:
