@@ -1,5 +1,5 @@
 ## IMPORTANT
-- requires R23 and above
+- requires dev-r23.2 and above
 - requires profile wipe
 
 ## Setup
