@@ -13,3 +13,4 @@ The mod does the following:
 - max masteries
 - max hideout areas
 - all cloths
+- ragfair unlocked
