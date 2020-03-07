@@ -10,7 +10,7 @@ This mod increases the prices of all the items needed for the hideout.
 While they are not dynamic the way official prices are, they relect average sell prices as of 2020/02/25.
 These items also sell for more, to emulate you selling them on the flea to other players, although you still sell them to the regular traders.
 
-### AssAssIn-Olympus-1.0.1 - Made by AssAssIn
+### AssAssIn-Olympus-1.0.2 - Made by AssAssIn
 This mod adds in overpowered armor, magazines with 1000 ammo capacity, overpowered meds, an extra-large backpack, and increases all ammo stacks to 1000.
 
 ### Blyto-FullFastV1-1.0.0 - Made by Blyto
