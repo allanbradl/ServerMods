@@ -4,7 +4,7 @@ This mod recreates the rules of DeadlySlobs Hardcore challenge, instead of you e
 
 Rules:
 1. No Flea Market.
-2. No Scavenger Raids. (This one u have to abide yourself)
+2. No Scavenger Raids. ##(This one u have to abide yourself)
 3. You are allowed to Barter for equipment.
 4. Secure container cannot be inserted into during raid. (you can keep meds/keytool/sicc case inside and these can still be used, but nothing can be added to them during the raid)
 5. You cannot purchase Weapons, Modifications, Armor, Ammo or Medication from Dealers with money.
