@@ -11,17 +11,5 @@ if you wanted to use these in place of the Russian Scav names as well.
 
 ### Manual Install Instructions
 
-1.	Extract contents of the archive
-
-2.	(Recommended) Back up your EmuTarkov server files
-
-3.	Copy the 'names' folder to the directories listed below and replace\overwrite the existing 'names' folder:
-	
-	**For renamed BEAR bots:
-		[EmuTarkov-Server Directory]\db\bots\pmc\bear\
-
-	**For renamed USEC bots:
-		[EmuTarkov-Server Directory]\db\bots\pmc\usec\
-		
-4.	Recache and Restart your EmuTarkov Server 
+Install it like any mods now
 
