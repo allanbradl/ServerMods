@@ -77,13 +77,13 @@ This mod allows you to place certain cases in the pouch slot.
 ### Miku-NoHolsterRestriction-1.0.0 - Made by Miku
 This mod makes it so you can have a primary weapon in the pistol and melee weapon slots.
 
-### Sorata-EquipRigsWithArmors-1.0.0 - Made by Sorata
+### Sorata-EquipRigsWithArmors-1.1.0 - Made by Sorata
 This mod makes all armored rigs to be equippable with armors again.
 
-### Sorata-FreeSecureContainer-1.0.0 - Made by Sorata
+### Sorata-FreeSecureContainer-1.1.0 - Made by Sorata
 This mod removes all secure containers filters, so you can now put in weapons, gears and so on. The Kappa Container is increased in size to 6x6.
 
-### Sorata-IncreasedAmmoStacks-1.0.0 - Made by Sorata
+### Sorata-IncreasedAmmoStacks-1.1.0 - Made by Sorata
 This mod increases all ammo max stacks up to 350.
 
 ### Sorata-IncreasedMoneyStacks-1.0.0 - Made by Sorata
