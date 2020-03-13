@@ -76,7 +76,18 @@
 		"Fail": []
 	},
 	"conditions": {
-		"AvailableForStart": [],
+		"AvailableForStart": [
+			{
+				"_parent": "Level",
+				"_props": {
+					"compareMethod": ">=",
+					"value": "1",
+					"index": 0,
+					"parentId": "",
+					"id": "5a3a71d586f7745a7e19f646"
+				}
+			}
+		],
 		"AvailableForFinish": [
 			{
 				"_parent": "CounterCreator",

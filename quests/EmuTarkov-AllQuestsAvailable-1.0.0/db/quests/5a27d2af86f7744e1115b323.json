@@ -28,7 +28,18 @@
 		"Fail": []
 	},
 	"conditions": {
-		"AvailableForStart": [],
+		"AvailableForStart": [
+			{
+				"_parent": "Level",
+				"_props": {
+					"compareMethod": ">=",
+					"value": "1",
+					"index": 0,
+					"parentId": "",
+					"id": "5a3a718086f7745a9d6892d9"
+				}
+			}
+		],
 		"AvailableForFinish": [
 			{
 				"_parent": "HandoverItem",

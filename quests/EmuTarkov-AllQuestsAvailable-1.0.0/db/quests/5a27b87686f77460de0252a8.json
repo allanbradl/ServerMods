@@ -58,7 +58,18 @@
 		"Fail": []
 	},
 	"conditions": {
-		"AvailableForStart": [],
+		"AvailableForStart": [
+			{
+				"_parent": "Level",
+				"_props": {
+					"compareMethod": ">=",
+					"value": "1",
+					"index": 0,
+					"parentId": "",
+					"id": "5a3a71e386f7745a9e0647d0"
+				}
+			}
+		],
 		"AvailableForFinish": [
 			{
 				"_parent": "PlaceBeacon",

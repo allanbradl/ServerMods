@@ -112,7 +112,18 @@
 		"Fail": []
 	},
 	"conditions": {
-		"AvailableForStart": [],
+		"AvailableForStart": [
+			{
+				"_parent": "Level",
+				"_props": {
+					"compareMethod": ">=",
+					"value": "1",
+					"index": 0,
+					"parentId": "",
+					"id": "5a3a731486f7745a7e19f66e"
+				}
+			}
+		],
 		"AvailableForFinish": [
 			{
 				"_parent": "Skill",
