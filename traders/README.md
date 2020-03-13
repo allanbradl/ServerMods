@@ -12,7 +12,7 @@ This mod change the Therapist avatar to Senko avatar
 This mod adds a new trader to the tradeer list
 
 ### EmuTarkov-AllClothesForFree-1.0.0
-This mod remove all restrictions to buy all clothes and make them free
+This mod remove all restrictions to buy all clothes and make them free. This make all clothes sides free too
 
 ### AssAssIn-dsHardCore-1.0.0
 For players who like a massive challenge and much longer gameplay.
