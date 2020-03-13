@@ -89,6 +89,10 @@ This mod increases all ammo max stacks up to 350.
 ### Sorata-IncreasedMoneyStacks-1.0.0 - Made by Sorata
 Money now stacks up to piles of 10 million instead of 500k.
 
+### Sorata-ReallyLessWeigthItems-1.0.0 - Made by Sorata
+This reduce all items weight to 0.001 for people that really don't like the new weight system.
+/!\ This mod is only for 12.4 version of the game, dont use it before.
+
 ### StealtH-BetterRonin-1.0.0 - Made by StealtH
 Makes the Ronin helmet better in numerous ways, such as increasing armor class and removing hearing, movement and speed penalties
 
