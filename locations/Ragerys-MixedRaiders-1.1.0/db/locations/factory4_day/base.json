@@ -3,43 +3,43 @@
 	"Locked": false,
 	"Insurance": true,
 	"SafeLocation": false,
-	"Name": "Customs",
-	"Description": "Very Big Map",
+	"Name": "Factory",
+	"Description": "The industrial estate and facilities of the chemical plant No.16 that were rented out illegally to the TerraGroup company. ",
 	"Scene": {
-		"path": "maps/customs_preset.bundle",
-		"rcid": "bigmap.scenespreset.asset"
+		"path": "maps/factory_day_preset.bundle",
+		"rcid": "factory_day.scenespreset.asset"
 	},
-	"Area": 0,
+	"Area": 0.9,
 	"RequiredPlayerLevel": 0,
 	"surv_gather_minutes": 1,
-	"MinPlayers": 6,
-	"MaxPlayers": 12,
+	"MinPlayers": 4,
+	"MaxPlayers": 6,
 	"sav_gather_minutes": 1,
-	"exit_count": 2,
+	"exit_count": 3,
 	"exit_access_time": 60,
 	"exit_time": 1,
 	"Preview": {
 		"path": "",
 		"rcid": ""
 	},
-	"IconX": 456,
-	"IconY": 443,
+	"IconX": 318,
+	"IconY": 359,
 	"filter_ex": [],
 	"waves": [],
 	"limits": [],
-	"AveragePlayTime": 25,
-	"AveragePlayerLevel": 20,
-	"escape_time_limit": 100,
-	"Rules": "AvoidAllPmc",
+	"AveragePlayTime": 15,
+	"AveragePlayerLevel": 1,
+	"escape_time_limit": 40,
+	"Rules": "AvoidOwnPmc",
 	"IsSecret": false,
 	"doors": [],
 	"tmp_location_field_remove_me": 0,
 	"MinDistToExitPoint": 30,
-	"MaxDistToFreePoint": 550,
-	"MinDistToFreePoint": 110,
-	"MaxBotPerZone": 5,
-	"OpenZones": "ZoneBrige,ZoneCrossRoad,ZoneFactorySide,ZoneOldAZS,ZoneBlock,Post,ZoneTankSquare,ZoneCustoms",
-	"OcculsionCullingEnabled": false,
+	"MaxDistToFreePoint": 900,
+	"MinDistToFreePoint": 10,
+	"MaxBotPerZone": 4,
+	"OpenZones": "BotZone",
+	"OcculsionCullingEnabled": true,
 	"GlobalLootChanceModifier": 1,
 	"OldSpawn": true,
 	"NewSpawn": false,
@@ -58,30 +58,24 @@
 	"BotImpossible": 0,
 	"BotAssault": 0,
 	"BotMarksman": 0,
-	"DisabledScavExits": "",
+	"DisabledScavExits": "Cellars,Gate 0",
 	"AccessKeys": [],
-	"MinMaxBots": [
-		{
-			"min": 2,
-			"max": 10,
-			"WildSpawnType": "marksman"
-		}
-	],
+	"MinMaxBots": [],
 	"BotLocationModifier": {
-		"AccuracySpeed": 0.9,
-		"Scattering": 0.9,
-		"GainSight": 0.8,
+		"AccuracySpeed": 1,
+		"Scattering": 1,
+		"GainSight": 1,
 		"MarksmanAccuratyCoef": 1,
 		"VisibleDistance": 1,
-		"DistToActivate": 255,
-		"DistToSleep": 300,
-		"MagnetPower": 44
+		"DistToSleep": 150,
+		"DistToActivate": 140,
+		"MagnetPower": 15,
+		"DistToPersueAxemanCoef": 0.6
 	},
 	"exits": [],
 	"DisabledForScav": false,
-	"BossLocationSpawn": [],
-	"Id": "bigmap",
-	"_Id": "56f40101d2720b2a4d8b45d6",
+	"Id": "factory4_day",
+	"_Id": "55f2d3fd4bdc2d5f408b4567",
 	"Loot": [],
 	"SpawnAreas": [],
 	"Banners": [
@@ -141,5 +135,6 @@
 				"rcid": ""
 			}
 		}
-	]
+	],
+	"BossLocationSpawn": []
 }

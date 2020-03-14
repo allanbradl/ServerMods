@@ -29,7 +29,7 @@
 	"limits": [],
 	"AveragePlayTime": 15,
 	"AveragePlayerLevel": 15,
-	"escape_time_limit": 100,
+	"escape_time_limit": 50,
 	"Rules": "AvoidOwnPmc",
 	"IsSecret": false,
 	"doors": [],
@@ -40,7 +40,7 @@
 	"MaxBotPerZone": 0,
 	"OpenZones": "",
 	"OcculsionCullingEnabled": true,
-	"GlobalLootChanceModifier": 1,
+	"GlobalLootChanceModifier": 0.6,
 	"OldSpawn": true,
 	"NewSpawn": false,
 	"BotMax": 0,
@@ -69,7 +69,8 @@
 		"VisibleDistance": 1,
 		"MagnetPower": 15,
 		"DistToSleep": 120,
-		"DistToActivate": 100
+		"DistToActivate": 100,
+		"DistToPersueAxemanCoef": 0.6
 	},
 	"exits": [],
 	"DisabledForScav": false,

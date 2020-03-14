@@ -1,9 +1,11 @@
 {
 	"name": "MixedRaiders",
 	"author": "Ragerys",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"license": "MIT",
 	"dependencies": {},
+	"res": {},
+	"src": {},
 	"db": {
 		"locations": {
 			"bigmap": {
@@ -76,6 +78,9 @@
 				"base": "db/locations/interchange/base.json",
 				"bosses": {
 					"boss_0": "db/locations/interchange/bosses/boss_0.json"
+				},
+				"exits": {
+					"exfill_5": "db/locations/interchange/exits/exfill_5.json"
 				},
 				"waves": {
 					"wave_0": "db/locations/interchange/waves/wave_0.json",
@@ -232,7 +237,5 @@
 				}
 			}
 		}
-	},
-	"res": {},
-	"src": {}
+	}
 }

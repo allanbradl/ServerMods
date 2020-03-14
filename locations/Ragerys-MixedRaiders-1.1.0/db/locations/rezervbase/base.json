@@ -3,44 +3,44 @@
 	"Locked": false,
 	"Insurance": true,
 	"SafeLocation": false,
-	"Name": "Shoreline",
-	"Description": "The coastline that leads to the port.",
+	"Name": "ReserveBase",
+	"Description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
 	"Scene": {
-		"path": "maps/shoreline_preset.bundle",
-		"rcid": "shoreline.scenespreset.asset"
+		"path": "maps/rezerv_base_preset.bundle",
+		"rcid": "Rezerv_Base.scenespreset.asset"
 	},
 	"Area": 0,
 	"RequiredPlayerLevel": 0,
 	"surv_gather_minutes": 1,
-	"MinPlayers": 8,
-	"MaxPlayers": 13,
+	"MinPlayers": 9,
+	"MaxPlayers": 12,
 	"sav_gather_minutes": 1,
 	"exit_count": 1,
-	"exit_access_time": 10,
-	"exit_time": 90,
+	"exit_access_time": 50,
+	"exit_time": 2,
 	"Preview": {
 		"path": "",
 		"rcid": ""
 	},
-	"IconX": 238,
-	"IconY": 85,
+	"IconX": 156,
+	"IconY": 286,
 	"filter_ex": [],
 	"waves": [],
 	"limits": [],
-	"AveragePlayTime": 35,
-	"AveragePlayerLevel": 25,
-	"escape_time_limit": 120,
+	"AveragePlayTime": 30,
+	"AveragePlayerLevel": 35,
+	"escape_time_limit": 90,
 	"Rules": "Normal",
 	"IsSecret": false,
 	"doors": [],
 	"tmp_location_field_remove_me": 0,
 	"MinDistToExitPoint": 30,
-	"MaxDistToFreePoint": 1200,
-	"MinDistToFreePoint": 80,
-	"MaxBotPerZone": 5,
-	"OpenZones": "ZoneSanatorium,ZonePassFar,ZonePassClose,ZoneTunnel,ZoneStartVillage,ZoneBunker",
-	"OcculsionCullingEnabled": true,
-	"GlobalLootChanceModifier": 0.6,
+	"MaxDistToFreePoint": 550,
+	"MinDistToFreePoint": 110,
+	"MaxBotPerZone": 8,
+	"OpenZones": "ZoneRailStrorage,ZonePTOR1,ZonePTOR2,ZoneBarrack,ZoneBunkerStorage,ZoneSubStorage",
+	"OcculsionCullingEnabled": false,
+	"GlobalLootChanceModifier": 0.3,
 	"OldSpawn": true,
 	"NewSpawn": false,
 	"BotMax": 0,
@@ -62,26 +62,25 @@
 	"AccessKeys": [],
 	"MinMaxBots": [],
 	"BotLocationModifier": {
-		"AccuracySpeed": 0.9,
-		"Scattering": 0.9,
-		"GainSight": 0.8,
+		"AccuracySpeed": 1,
+		"Scattering": 1,
+		"GainSight": 1,
 		"MarksmanAccuratyCoef": 1,
 		"VisibleDistance": 1,
-		"DistToSleep": 300,
-		"DistToActivate": 250,
-		"MagnetPower": 40
+		"DistToPersueAxemanCoef": 0.7
 	},
 	"exits": [],
 	"DisabledForScav": false,
-	"Id": "Shoreline",
-	"_Id": "5704e554d2720bac5b8b456e",
+	"BossLocationSpawn": [],
+	"Id": "RezervBase",
+	"_Id": "5704e5fad2720bc05b8b4567",
 	"Loot": [],
 	"SpawnAreas": [],
 	"Banners": [
 		{
-			"id": "5807c3f124597746bf2db2ce",
+			"id": "5807bfe124597742a92e0a4c",
 			"pic": {
-				"path": "CONTENT/banners/banner_scav.jpg",
+				"path": "CONTENT/banners/norvinskzone.jpg",
 				"rcid": ""
 			}
 		},
@@ -92,6 +91,5 @@
 				"rcid": ""
 			}
 		}
-	],
-	"BossLocationSpawn": []
+	]
 }

@@ -12,5 +12,5 @@ This mod greatly increases the variety of loot that can be found in raid, adding
 ### Leorocky-NoEscapeFromTarkov-1.0.1 - Made by Leorocky
 This mod greatly increases difficulty by setting all bot difficulty to impossible, adding more boss spawns, and adding in new spawn points. Maps are now locked behind player level in an attempt to create a difficult experience with a sense of progression. More info in its readme file.
 
-### Ragerys-MixedRaiders-1.0.0 - Made by Ragerys
+### Ragerys-MixedRaiders-1.1.0 - Made by Ragerys
 This mod adds more bots, activate more spawn points, increased waves number, increased overall difficulty and adds labs raiders to all maps. I make it spawn 50/50 between regular scavs and raiders. And it also doubles the raid times.
