@@ -32,10 +32,11 @@ List of The maps unlock based system
 * Laboratory RequiredPlayerLevel: 20
 
 To-do list:
-* Waves Bots improvement
+* Waves Bots improvement **** most done
 
 ## Status
 Project is: WIP
+* Update for 0.12.4-R1
 
 ## Inspiration
 Project inspired by Saaly and his work! 
