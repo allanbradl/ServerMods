@@ -4,14 +4,11 @@ A repository containing mods made for the EmuTarkov-Server
 ## **```/!\ IMPORTANT /!\```**
 - **THIS REPOSITORY IS NOT A MOD**
 - **YOU NEED TO PICK MODS INCLUDED IN THE DIFFERENTS FOLDER OF THE REPOSITORY**
-
-- **ACTUALLY ONLY SERVER R22 IS AVAILABLE, FOR DOWNLOADING R22 MODS, HEADS TO THE FOLLOWING LINKS AND DONT DOWNLOAD THEM SOMEWHERE ELSE !!!!**
-- https://github.com/justemutarkov/ServerMods/releases/tag/R22
 ## How to install a mod ?
 
 1. Download the desired mod(s)
 2. Add the desired mod folder into ```/user/mods/```
-3. The server will automaticaly recache and modify server.config.json to activate the installed mod(s)
+3. The server will automaticaly recache and modify `/server/user/configs/mods.json` to activate the installed mod(s)
 4. Start the server & the game
 
 ## Note:
