@@ -23,43 +23,72 @@
 			"_tpl": "5963866286f7747bf429b572"
 		},
 		{
-			"_id": "TacticalVest289364",
-			"_tpl": "5c0e9f2c86f77432297fe0a3",
+			"_id": "TacticalVest532240",
+			"_tpl": "5b44c8ea86f7742d1627baf1",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "TacticalVest"
 		},
 		{
-			"_id": "I2100143385988820360jSIo",
-			"_tpl": "57d14d2524597714373db789",
+			"_id": "I2101016345911518878SmXf",
+			"_tpl": "5bd70322209c4d00d7167b8f",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "FirstPrimaryWeapon"
 		},
 		{
-			"_id": "I210014336637141990jXM6E",
-			"_tpl": "57d152ec245977144076ccdf",
-			"parentId": "I2100143385988820360jSIo",
-			"slotId": "mod_pistol_grip"
-		},
-		{
-			"_id": "MagazineWeaponScav3710",
-			"_tpl": "57d1519e24597714373db79d",
-			"parentId": "I2100143385988820360jSIo",
+			"_id": "MagazineWeaponScav1337",
+			"_tpl": "5ba26586d4351e44f824b340",
+			"parentId": "I2101016345911518878SmXf",
 			"slotId": "mod_magazine"
 		},
 		{
-			"_id": "AmmoMag17796",
-			"_tpl": "5737218f245977612125ba51",
-			"parentId": "MagazineWeaponScav3710",
+			"_id": "AmmoMag13682",
+			"_tpl": "5ba26844d4351e00334c9475",
+			"parentId": "MagazineWeaponScav1337",
 			"slotId": "cartridges",
 			"upd": {
-				"StackObjectsCount": 30
+				"StackObjectsCount": 40
 			}
 		},
 		{
-			"_id": "mag0Vest144968",
-			"_tpl": "57d1519e24597714373db79d",
-			"parentId": "TacticalVest289364",
-			"slotId": "1",
+			"_id": "I2101016346146567302I1uR",
+			"_tpl": "5ba26acdd4351e003562908e",
+			"parentId": "I2101016345911518878SmXf",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "I2101016349602080869fnj5",
+			"_tpl": "58d39d3d86f77445bb794ae7",
+			"parentId": "I2101016345911518878SmXf",
+			"slotId": "mod_scope"
+		},
+		{
+			"_id": "I2101016346925869642oJGU",
+			"_tpl": "5bd704e7209c4d00d7167c31",
+			"parentId": "I2101016345911518878SmXf",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "I2101016349042428493Gr9g",
+			"_tpl": "5c791e872e2216001219c40a",
+			"parentId": "I2101016345911518878SmXf",
+			"slotId": "mod_foregrip"
+		},
+		{
+			"_id": "I2101016341926373174pHn6",
+			"_tpl": "5b3116595acfc40019476364",
+			"parentId": "I2101016349602080869fnj5",
+			"slotId": "mod_scope",
+			"upd": {
+				"Sight": {
+					"SelectedSightMode": 0
+				}
+			}
+		},
+		{
+			"_id": "mag1Vest990817",
+			"_tpl": "5ba2657ed4351e0035628ff2",
+			"parentId": "TacticalVest532240",
+			"slotId": "2",
 			"location": {
 				"x": 0,
 				"y": 0,
@@ -67,19 +96,19 @@
 			}
 		},
 		{
-			"_id": "AmmoMag0Vest692455",
-			"_tpl": "57371f8d24597761006c6a81",
-			"parentId": "mag0Vest144968",
+			"_id": "AmmoMag1Vest349304",
+			"_tpl": "5ba2678ad4351e44f824b344",
+			"parentId": "mag1Vest990817",
 			"slotId": "cartridges",
 			"upd": {
 				"StackObjectsCount": 30
 			}
 		},
 		{
-			"_id": "mag1Vest26526",
-			"_tpl": "57d1519e24597714373db79d",
-			"parentId": "TacticalVest289364",
-			"slotId": "3",
+			"_id": "mag2Vest88906",
+			"_tpl": "5ba2657ed4351e0035628ff2",
+			"parentId": "TacticalVest532240",
+			"slotId": "4",
 			"location": {
 				"x": 0,
 				"y": 0,
@@ -87,38 +116,18 @@
 			}
 		},
 		{
-			"_id": "AmmoMag1Vest770127",
-			"_tpl": "5737201124597760fc4431f1",
-			"parentId": "mag1Vest26526",
+			"_id": "AmmoMag2Vest730160",
+			"_tpl": "5ba26812d4351e003201fef1",
+			"parentId": "mag2Vest88906",
 			"slotId": "cartridges",
 			"upd": {
 				"StackObjectsCount": 30
 			}
 		},
 		{
-			"_id": "mag3Vest726823",
-			"_tpl": "57d1519e24597714373db79d",
-			"parentId": "TacticalVest289364",
-			"slotId": "6",
-			"location": {
-				"x": 0,
-				"y": 0,
-				"r": "Horizontal"
-			}
-		},
-		{
-			"_id": "AmmoMag3Vest191034",
-			"_tpl": "573720e02459776143012541",
-			"parentId": "mag3Vest726823",
-			"slotId": "cartridges",
-			"upd": {
-				"StackObjectsCount": 30
-			}
-		},
-		{
-			"_id": "mag4Vest126700",
-			"_tpl": "57d1519e24597714373db79d",
-			"parentId": "TacticalVest289364",
+			"_id": "mag5Vest393937",
+			"_tpl": "5ba2657ed4351e0035628ff2",
+			"parentId": "TacticalVest532240",
 			"slotId": "8",
 			"location": {
 				"x": 0,
@@ -127,69 +136,42 @@
 			}
 		},
 		{
-			"_id": "AmmoMag4Vest432035",
-			"_tpl": "57371f2b24597761224311f1",
-			"parentId": "mag4Vest126700",
+			"_id": "AmmoMag5Vest325047",
+			"_tpl": "5ba26812d4351e003201fef1",
+			"parentId": "mag5Vest393937",
 			"slotId": "cartridges",
 			"upd": {
 				"StackObjectsCount": 30
 			}
 		},
 		{
-			"_id": "Scabbard634095",
-			"_tpl": "57e26fc7245977162a14b800",
+			"_id": "Scabbard266664",
+			"_tpl": "54491bb74bdc2d09088b4567",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "Scabbard"
 		},
 		{
-			"_id": "Headwear290836",
-			"_tpl": "5e00c1ad86f774747333222c",
-			"parentId": "5c6687d65e9d882c8841f0fd",
-			"slotId": "Headwear"
-		},
-		{
-			"_id": "Headwear_cover_6959",
-			"_tpl": "5e00cfa786f77469dc6e5685",
-			"parentId": "Headwear290836",
-			"slotId": "mod_equipment_000",
-			"upd": {
-				"Togglable": {
-					"On": true
-				}
-			}
-		},
-		{
-			"_id": "Eyewear700163",
-			"_tpl": "5d6d2ef3a4b93618084f58bd",
+			"_id": "Eyewear518136",
+			"_tpl": "5b432be65acfc433000ed01f",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "Eyewear"
 		},
 		{
-			"_id": "Backpack229090",
-			"_tpl": "544a5cde4bdc2d39388b456b",
+			"_id": "FaceCover386260",
+			"_tpl": "59e7715586f7742ee5789605",
 			"parentId": "5c6687d65e9d882c8841f0fd",
-			"slotId": "Backpack"
+			"slotId": "FaceCover"
 		},
 		{
-			"_id": "BP_Backpack229090_377694",
-			"_tpl": "590c5bbd86f774785762df04",
-			"parentId": "Backpack229090",
-			"slotId": "main",
-			"location": {
-				"x": 0,
-				"y": 0,
-				"r": "Horizontal"
-			}
-		},
-		{
-			"_id": "BP_Backpack229090_988509",
-			"_tpl": "59e3606886f77417674759a5",
-			"parentId": "Backpack229090",
-			"slotId": "main",
-			"location": {
-				"x": 0,
-				"y": 1,
-				"r": "Horizontal"
+			"_id": "ArmorVest279399",
+			"_tpl": "5b44cf1486f77431723e3d05",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "ArmorVest",
+			"upd": {
+				"Repairable": {
+					"MaxDurability": 68,
+					"Durability": 16
+				}
 			}
 		}
 	],

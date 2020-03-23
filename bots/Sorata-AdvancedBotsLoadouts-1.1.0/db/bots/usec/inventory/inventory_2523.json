@@ -23,181 +23,60 @@
 			"_tpl": "5963866286f7747bf429b572"
 		},
 		{
-			"_id": "TacticalVest93489",
-			"_tpl": "544a5caa4bdc2d1a388b4568",
+			"_id": "TacticalVest196756",
+			"_tpl": "5c0e9f2c86f77432297fe0a3",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "TacticalVest"
 		},
 		{
-			"_id": "I210049337428853527kmWNO",
-			"_tpl": "5a0ec13bfcdbcb00165aa685",
+			"_id": "I210101815986193238rIqYa",
+			"_tpl": "57d14d2524597714373db789",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "FirstPrimaryWeapon"
 		},
 		{
-			"_id": "I210049331249444390LODOt",
-			"_tpl": "59d64ec286f774171d1e0a42",
-			"parentId": "I210049337428853527kmWNO",
-			"slotId": "mod_gas_block"
-		},
-		{
-			"_id": "I210049333834946701ebAUj",
-			"_tpl": "59d64fc686f774171b243fe2",
-			"parentId": "I210049337428853527kmWNO",
-			"slotId": "mod_muzzle"
-		},
-		{
-			"_id": "I210049331187558035paNc2",
-			"_tpl": "59e62cc886f77440d40b52a1",
-			"parentId": "I210049337428853527kmWNO",
+			"_id": "I210101813244728532C4Gm0",
+			"_tpl": "57d152ec245977144076ccdf",
+			"parentId": "I210101815986193238rIqYa",
 			"slotId": "mod_pistol_grip"
 		},
 		{
-			"_id": "I210049334447998954DgA41",
-			"_tpl": "59d6507c86f7741b846413a2",
-			"parentId": "I210049337428853527kmWNO",
-			"slotId": "mod_reciever"
+			"_id": "MagazineWeaponScav3750",
+			"_tpl": "57d1519e24597714373db79d",
+			"parentId": "I210101815986193238rIqYa",
+			"slotId": "mod_magazine"
 		},
 		{
-			"_id": "I210049331494089981RGlbg",
-			"_tpl": "59d650cf86f7741b846413a4",
-			"parentId": "I210049337428853527kmWNO",
-			"slotId": "mod_sight_rear",
+			"_id": "AmmoMag15481",
+			"_tpl": "573718ba2459775a75491131",
+			"parentId": "MagazineWeaponScav3750",
+			"slotId": "cartridges",
 			"upd": {
-				"Sight": {
-					"SelectedSightMode": 0
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "I210101816179157107lTfCJ",
+			"_tpl": "57ee59b42459771c7b045da5",
+			"parentId": "I210101815986193238rIqYa",
+			"slotId": "mod_mount"
+		},
+		{
+			"_id": "I210101813269731855Wq2kj",
+			"_tpl": "5a5f1ce64f39f90b401987bc",
+			"parentId": "I210101816179157107lTfCJ",
+			"slotId": "mod_tactical",
+			"upd": {
+				"Light": {
+					"IsActive": true,
+					"SelectedMode": 0
 				}
 			}
 		},
 		{
-			"_id": "I210049338297097927alfHG",
-			"_tpl": "59d64f2f86f77417193ef8b3",
-			"parentId": "I210049331249444390LODOt",
-			"slotId": "mod_handguard"
-		},
-		{
-			"_id": "I210016101782840201FfSza",
-			"_tpl": "5448bd6b4bdc2dfc2f8b4569",
-			"parentId": "5c6687d65e9d882c8841f0fd",
-			"slotId": "Holster"
-		},
-		{
-			"_id": "AmmoMag111792",
-			"_tpl": "57371f8d24597761006c6a81",
-			"parentId": "I210016108228972218lshfS",
-			"slotId": "cartridges",
-			"upd": {
-				"StackObjectsCount": 8
-			}
-		},
-		{
-			"_id": "I210016108228972218lshfS",
-			"_tpl": "5448c12b4bdc2d02308b456f",
-			"parentId": "I210016101782840201FfSza",
-			"slotId": "mod_magazine"
-		},
-		{
-			"_id": "mag0Vest490506",
-			"_tpl": "59e5d83b86f7745aed03d262",
-			"parentId": "TacticalVest93489",
-			"slotId": "1",
-			"location": {
-				"x": 0,
-				"y": 1,
-				"r": "Horizontal"
-			}
-		},
-		{
-			"_id": "AmmoMag0Vest86406",
-			"_tpl": "59e0d99486f7744a32234762",
-			"parentId": "mag0Vest490506",
-			"slotId": "cartridges",
-			"upd": {
-				"StackObjectsCount": 10
-			}
-		},
-		{
-			"_id": "mag1Vest247649",
-			"_tpl": "59e5d83b86f7745aed03d262",
-			"parentId": "TacticalVest93489",
-			"slotId": "3",
-			"location": {
-				"x": 0,
-				"y": 0,
-				"r": "Horizontal"
-			}
-		},
-		{
-			"_id": "AmmoMag1Vest394436",
-			"_tpl": "59e4d24686f7741776641ac7",
-			"parentId": "mag1Vest247649",
-			"slotId": "cartridges",
-			"upd": {
-				"StackObjectsCount": 10
-			}
-		},
-		{
-			"_id": "mag1Vest253779",
-			"_tpl": "59e5d83b86f7745aed03d262",
-			"parentId": "TacticalVest93489",
-			"slotId": "3",
-			"location": {
-				"x": 0,
-				"y": 1,
-				"r": "Horizontal"
-			}
-		},
-		{
-			"_id": "AmmoMag1Vest952766",
-			"_tpl": "5656d7c34bdc2d9d198b4587",
-			"parentId": "mag1Vest253779",
-			"slotId": "cartridges",
-			"upd": {
-				"StackObjectsCount": 10
-			}
-		},
-		{
-			"_id": "mag2Vest434048",
-			"_tpl": "59e5d83b86f7745aed03d262",
-			"parentId": "TacticalVest93489",
-			"slotId": "11",
-			"location": {
-				"x": 0,
-				"y": 0,
-				"r": "Horizontal"
-			}
-		},
-		{
-			"_id": "AmmoMag2Vest329796",
-			"_tpl": "59e4d24686f7741776641ac7",
-			"parentId": "mag2Vest434048",
-			"slotId": "cartridges",
-			"upd": {
-				"StackObjectsCount": 10
-			}
-		},
-		{
-			"_id": "StackAmmo18739286883",
-			"_tpl": "59e0d99486f7744a32234762",
-			"parentId": "TacticalVest93489",
-			"slotId": "9",
-			"upd": {
-				"StackObjectsCount": 6
-			}
-		},
-		{
-			"_id": "StackAmmo51396616092",
-			"_tpl": "59e4d3d286f774176a36250a",
-			"parentId": "TacticalVest93489",
-			"slotId": "12",
-			"upd": {
-				"StackObjectsCount": 26
-			}
-		},
-		{
-			"_id": "magP0Vest54767",
-			"_tpl": "5448c12b4bdc2d02308b456f",
-			"parentId": "TacticalVest93489",
+			"_id": "mag1Vest401553",
+			"_tpl": "57d1519e24597714373db79d",
+			"parentId": "TacticalVest196756",
 			"slotId": "2",
 			"location": {
 				"x": 0,
@@ -206,31 +85,71 @@
 			}
 		},
 		{
-			"_id": "AmmoMagPVest24928",
-			"_tpl": "57371e4124597760ff7b25f1",
-			"parentId": "magP0Vest54767",
+			"_id": "AmmoMag1Vest407430",
+			"_tpl": "5737201124597760fc4431f1",
+			"parentId": "mag1Vest401553",
 			"slotId": "cartridges",
 			"upd": {
-				"StackObjectsCount": 8
+				"StackObjectsCount": 30
 			}
 		},
 		{
-			"_id": "Scabbard771025",
-			"_tpl": "57e26fc7245977162a14b800",
+			"_id": "mag2Vest801533",
+			"_tpl": "57d1519e24597714373db79d",
+			"parentId": "TacticalVest196756",
+			"slotId": "4",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "AmmoMag2Vest489050",
+			"_tpl": "57371eb62459776125652ac1",
+			"parentId": "mag2Vest801533",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "mag3Vest708653",
+			"_tpl": "57d1519e24597714373db79d",
+			"parentId": "TacticalVest196756",
+			"slotId": "6",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "AmmoMag3Vest595212",
+			"_tpl": "5737218f245977612125ba51",
+			"parentId": "mag3Vest708653",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "Scabbard628023",
+			"_tpl": "54491bb74bdc2d09088b4567",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "Scabbard"
 		},
 		{
-			"_id": "Headwear713279",
-			"_tpl": "5e00c1ad86f774747333222c",
+			"_id": "Headwear139298",
+			"_tpl": "5c0e874186f7745dc7616606",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "Headwear"
 		},
 		{
-			"_id": "Headwear_cover_971",
-			"_tpl": "5e00cfa786f77469dc6e5685",
-			"parentId": "Headwear713279",
-			"slotId": "mod_equipment_000",
+			"_id": "Headwear_cover_2996",
+			"_tpl": "5c0919b50db834001b7ce3b9",
+			"parentId": "Headwear139298",
+			"slotId": "mod_equipment",
 			"upd": {
 				"Togglable": {
 					"On": true
@@ -238,21 +157,74 @@
 			}
 		},
 		{
-			"_id": "FaceCover20303",
-			"_tpl": "5b4326435acfc433000ed01d",
+			"_id": "Eyewear648218",
+			"_tpl": "5aa2b9aee5b5b00015693121",
 			"parentId": "5c6687d65e9d882c8841f0fd",
-			"slotId": "FaceCover"
+			"slotId": "Eyewear"
 		},
 		{
-			"_id": "ArmorVest713989",
-			"_tpl": "5ab8e79e86f7742d8b372e78",
+			"_id": "Backpack508114",
+			"_tpl": "56e33680d2720be2748b4576",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "Backpack"
+		},
+		{
+			"_id": "BP_Backpack508114_629353",
+			"_tpl": "559ba5b34bdc2d1f1a8b4582",
+			"parentId": "Backpack508114",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "BP_Backpack508114_823016",
+			"_tpl": "5addbfbb5acfc400194dbcf7",
+			"parentId": "Backpack508114",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "BP_Backpack508114_684096",
+			"_tpl": "5d1b5e94d7ad1a2b865a96b0",
+			"parentId": "Backpack508114",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "ArmorVest405423",
+			"_tpl": "5b44d22286f774172b0c9de8",
 			"parentId": "5c6687d65e9d882c8841f0fd",
 			"slotId": "ArmorVest",
 			"upd": {
 				"Repairable": {
-					"MaxDurability": 75,
-					"Durability": 41
+					"MaxDurability": 70,
+					"Durability": 49
 				}
+			}
+		},
+		{
+			"_id": "Pocket_493013",
+			"_tpl": "5af04b6486f774195a3ebb49",
+			"parentId": "5c6687d65e9d882c8841f121",
+			"slotId": "pocket1",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			},
+			"upd": {
+				"SpawnedInSession": true
 			}
 		}
 	],
