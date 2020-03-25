@@ -114,5 +114,5 @@ This mod aim to extend the number of compatible parts with all 3 AKS-74U
 ### X-KyLe-UnlimitedKeys-1.0.0 - Made by XKyLe
 Limited-use restriction of keys and access cards has been removed.
 
-### Yasin-AmmoStacksDamage-1.0.0 - Made by Yasin
+### Yasin-RealAmmoStacksDamage-2.0.0 - Made by Yasin
 Ammo Stacks + Damage and Armor Damage Settings Increased!
