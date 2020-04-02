@@ -4,7 +4,7 @@ A repository containing mods made for the EmuTarkov-Server
 ## **```/!\ IMPORTANT /!\```**
 - **THIS REPOSITORY IS NOT A MOD**
 - **YOU NEED TO PICK MODS INCLUDED IN THE DIFFERENTS FOLDER OF THE REPOSITORY**
--- **ACTUAL VERSION OF THE REPO: 0.12.4-R2**
+- **ACTUAL VERSION OF THE REPO: 0.12.4-R2**
 ## How to install a mod ?
 
 1. Download the desired mod(s)
