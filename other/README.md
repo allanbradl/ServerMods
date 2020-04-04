@@ -21,5 +21,10 @@ The mod does the following:
 - all cloths
 - ragfair unlocked
 
-### Saaly-ScavMode-1.1.3
-What is doing this mod ?
+### Psifour-DisableScav-1.0.0
+Disables using scavs on any map. 
+This forces the player to use their PMC for all raids.
+
+### Sorata-OverTheRainbow-1.0.0
+This mod just break out the limit between you, and the lvl 81 of the game. That mean you can now be lvl 81 in EmuTarkov.
+Only lvl80 image is fucked up, blame BSG for this
