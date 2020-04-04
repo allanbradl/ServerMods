@@ -16,7 +16,7 @@ YES it will !! I managed to get most of the items to have the in raid state, exc
 
 **Where do i download this freaking amazing shit ?**
 Here is the download link for the actual files : 
-/!\ This is only supported for **12.2.x +** versions of the game. Don't use it for older versions you may have issues with it/!\
+/!\ This is only supported for **0.12.4-R2** versions of the game. Don't use it for older versions you may have issues with it/!\
 
 > https://github.com/justemutarkov/EmuTarkov-ServerMods/releases
 
@@ -39,25 +39,12 @@ Here is how you install this mod, follow all steps and it's good !
 
 	1. First is to download the last version of the mod here : hhttps://github.com/justemutarkov/EmuTarkov-ServerMods/releases
 	2. Drop the folder Sorata-AdvancedBotsLoadouts in *user/mods*.
-	3. Add this code in the server.config.json in the "list" data.
-	
-```json
-{
-"name": "AdvancedBotsLoadouts",
-"author": "Sorata",
-"version": "1.0.8",
-"enabled": true
-}
-```
-
-	4. Restart the server.
-	5. Go into a raid.
+	3. Restart the server.
+	4. Go into a raid.
 	
 ## Troubleshoot
-Sometimes scavs spawnw without weapon wich make them to stand in a place without doing anything. If you encounter any, feel free to give me wich mags he got in his tactical vest to let me the possibility of investigate the weapon that cause this issue.
+Sometimes scavs spawn without weapon wich make them to stand in a place without doing anything. If you encounter any, feel free to give me wich mags he got in his tactical vest to let me the possibility of investigate the weapon that cause this issue.
 
 For PMC side, there's still a lot of them without weapons, as for now, i'm still investigating the issue and i'm working hard on it to fix it. Sorry for the inconvenience ! Stay tuned for updates ;)
-
-For now bot modding is not available yet, if you want to get the mod working, make a backup of your db/bots folder, and replace it with the new db/bots folder in the archive !
 
 Feel free to send me a DM on Discord if need helps #Sorata
