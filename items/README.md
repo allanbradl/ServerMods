@@ -40,9 +40,6 @@ This adds in a new vest with four 2x2 slots that can fit drum mags.
 ### Frumorn-FullGen4Plus-1.0.0 - Made by Frumorn
 Tweaks Gen4 Full protection armor to actually be full protection (adds right and left leg protection), tweaks durability to be higher, cost should be higher at trader too and slightly increased debuffs for balancing.
 
-### Frumorn-NadeCaseR23-1.0.0 - Made by Frumorn
-This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 rubles
-
 ### Frumorn-NVSAGSFleamarket-1.0.0 - Made by Frumorn
 This mod adds the NSV 'Utes' and the AGS 30x29 to the market under the Assault Rifles category, along with their respective ammunition. 
 
@@ -116,3 +113,6 @@ Limited-use restriction of keys and access cards has been removed.
 
 ### Yasin-RealAmmoStacksDamage-2.0.0 - Made by Yasin
 Ammo Stacks + Damage and Armor Damage Settings Increased!
+
+### Ivandrov-RealisticCartridgeDamage-1.0.0 - Made by Ivandrov
+This increase the damage of most of the ammo to the game to give them realistic behaviour
