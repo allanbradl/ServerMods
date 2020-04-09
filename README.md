@@ -23,7 +23,7 @@ eg : EmuTarkov-EnableMultiplayerMod-1.0.0<br>
 EmuTarkov is the author, EnableMultiplayerMod is the name, 1.0.0 is the version number<br>
 
 # Official links
-**Discord link**: https://discord.gg/dVJcPsv
+**Discord link**: https://discord.gg/3sR4KKS
 
 **Modding Tutorials**: https://github.com/KandaSoranyan/JustEmuTarkovWiki
 
