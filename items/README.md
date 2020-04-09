@@ -116,3 +116,9 @@ Ammo Stacks + Damage and Armor Damage Settings Increased!
 
 ### Ivandrov-RealisticCartridgeDamage-1.0.0 - Made by Ivandrov
 This increase the damage of most of the ammo to the game to give them realistic behaviour
+
+### FluffyTail-BiggerSICC-1.0.0 - Made by FluffyTail
+A basic mod for a first attempt to increase the S I C C case from 5x5 to 8x8
+
+### Zarf-SuperPropital-1.0.0 - Made by Zarf
+it changes the Propital stim injector to be much more powerful, 5000hp total/100hp per use, 1 second use time, fix fractures, remove pain and tremor, stop blood loss, regen hp
