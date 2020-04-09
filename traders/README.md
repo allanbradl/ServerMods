@@ -9,6 +9,7 @@ This folder contain all mods that are traders related mods.
 This mod change the Therapist avatar to Senko avatar
 
 ### NoHurry-KokoHekmatyar-1.0.0
+/!\ In order to use this mod, you need to wipe your profile /!\
 This mod adds a new trader to the tradeer list
 
 ### EmuTarkov-AllClothesForFree-1.0.0
