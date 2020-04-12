@@ -44,3 +44,6 @@ ModTarkol is a fusion of different mods, which modify the gaming experience:
 4. Rewrite of waves on maps and new combinations of bots (balanced).
 5. Hardcore profile (you can replace your old profile if you are in version 0.12.3_R23.1. 1)launch the mod 2)copy and paste your old profile into user/profiles)
 6. Ragfair is activated at level 15.
+
+### Sorata-TerraGroupSpecialist-1.0.0
+This mod adds a complete storyline quest based with new traders and new items with it
