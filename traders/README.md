@@ -23,4 +23,12 @@ This mod recreates the rules of DeadlySlobs Hardcore challenge, instead of you e
 ### AssAssIn-SexyTraders-1.0.0
 This mod change traders avatar to new ones
 
+### AssAssIn-OFAP-124r2.1.0 - Made By AssAssIn
+Online Fleamarket Average Pricing
 
+This mod increases the prices of all the items needed for the hideout.
+While they are not dynamic the way official prices are, they relect average sell prices as of 2020/02/25.
+These items also sell for more, to emulate you selling them on the flea to other players, although you still sell them to the regular traders.
+
+### AssAssIn-PraporBuysAll-124r2.1.0 - Made By AssAssIn
+This make prapor buy every items

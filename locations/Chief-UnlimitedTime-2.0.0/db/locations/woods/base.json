@@ -1,45 +1,45 @@
 {
 	"Enabled": true,
 	"Locked": false,
-	"Insurance": false,
+	"Insurance": true,
 	"SafeLocation": false,
-	"Name": "Laboratory",
-	"Description": "Laboratory description",
+	"Name": "Woods",
+	"Description": "The Priozersk Natural Reserve was recently included into the list of state-protected wildlife reserves of the North-Western Federal District.",
 	"Scene": {
-		"path": "maps/laboratory_preset.bundle",
-		"rcid": "laboratory.ScenesPreset.asset"
+		"path": "maps/woods_preset.bundle",
+		"rcid": "woods.scenespreset.asset"
 	},
 	"Area": 0,
-	"RequiredPlayerLevel": 1,
+	"RequiredPlayerLevel": 0,
 	"surv_gather_minutes": 1,
-	"MinPlayers": 6,
-	"MaxPlayers": 10,
+	"MinPlayers": 8,
+	"MaxPlayers": 12,
 	"sav_gather_minutes": 1,
 	"exit_count": 1,
 	"exit_access_time": 999999999,
-	"exit_time": 1,
+	"exit_time": 90,
 	"Preview": {
 		"path": "",
 		"rcid": ""
 	},
-	"IconX": 288,
-	"IconY": 611,
+	"IconX": 252,
+	"IconY": 463,
 	"filter_ex": [],
 	"waves": [],
 	"limits": [],
-	"AveragePlayTime": 30,
-	"AveragePlayerLevel": 45,
+	"AveragePlayTime": 25,
+	"AveragePlayerLevel": 15,
 	"escape_time_limit": 999999999,
 	"Rules": "Normal",
-	"IsSecret": true,
+	"IsSecret": false,
 	"doors": [],
-	"tmp_location_field_remove_me": 111,
+	"tmp_location_field_remove_me": 0,
 	"MinDistToExitPoint": 30,
-	"MaxDistToFreePoint": 900,
-	"MinDistToFreePoint": 10,
-	"MaxBotPerZone": 0,
-	"OpenZones": "BotZoneMain",
-	"OcculsionCullingEnabled": true,
+	"MaxDistToFreePoint": 550,
+	"MinDistToFreePoint": 120,
+	"MaxBotPerZone": 5,
+	"OpenZones": "ZoneRedHouse,ZoneHighRocks,ZoneWoodCutter,ZoneHouse,ZoneBigRocks,ZoneRoad,ZoneMiniHouse,",
+	"OcculsionCullingEnabled": false,
 	"GlobalLootChanceModifier": 1,
 	"OldSpawn": true,
 	"NewSpawn": false,
@@ -59,9 +59,7 @@
 	"BotAssault": 0,
 	"BotMarksman": 0,
 	"DisabledScavExits": "",
-	"AccessKeys": [
-		"5c94bbff86f7747ee735c08f"
-	],
+	"AccessKeys": [],
 	"MinMaxBots": [],
 	"BotLocationModifier": {
 		"AccuracySpeed": 1,
@@ -69,29 +67,23 @@
 		"GainSight": 1,
 		"MarksmanAccuratyCoef": 1,
 		"VisibleDistance": 1,
-		"DistToSleep": 100,
-		"DistToActivate": 50,
-		"MagnetPower": 10
+		"MagnetPower": 44,
+		"DistToSleep": 300,
+		"DistToActivate": 265,
+		"DistToPersueAxemanCoef": 0.7
 	},
 	"exits": [],
-	"DisabledForScav": false,
+	"DisabledForScav": true,
 	"BossLocationSpawn": [],
-	"Id": "laboratory",
-	"_Id": "5b0fc42d86f7744a585f9105",
+	"Id": "Woods",
+	"_Id": "5704e3c2d2720bac5b8b4567",
 	"Loot": [],
 	"SpawnAreas": [],
 	"Banners": [
 		{
-			"id": "5805f617245977100b2c1f41",
+			"id": "5803a58524597710ca36fcb2",
 			"pic": {
-				"path": "CONTENT/banners/tglabs.jpg",
-				"rcid": ""
-			}
-		},
-		{
-			"id": "5807be8924597742c603fa19",
-			"pic": {
-				"path": "CONTENT/banners/banner_tarkov.jpg",
+				"path": "CONTENT/banners/banner_terragroup.jpg",
 				"rcid": ""
 			}
 		},

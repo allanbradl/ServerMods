@@ -15,5 +15,5 @@ This mod greatly increases difficulty by setting all bot difficulty to impossibl
 ### Ragerys-MixedRaiders-1.1.0 - Made by Ragerys
 This mod adds more bots, activate more spawn points, increased waves number, increased overall difficulty and adds labs raiders to all maps. I make it spawn 50/50 between regular scavs and raiders. And it also doubles the raid times.
 
-### Chief-UnlimitedTime-1.5.0 - Made by Chief
+### Chief-UnlimitedTime-2.0.0 - Made by Chief
 This change all maps escape time to be a more way larger

@@ -1,46 +1,46 @@
 {
 	"Enabled": true,
 	"Locked": false,
-	"Insurance": true,
+	"Insurance": false,
 	"SafeLocation": false,
-	"Name": "ReserveBase",
-	"Description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
+	"Name": "Laboratory",
+	"Description": "Laboratory description",
 	"Scene": {
-		"path": "maps/rezerv_base_preset.bundle",
-		"rcid": "Rezerv_Base.scenespreset.asset"
+		"path": "maps/laboratory_preset.bundle",
+		"rcid": "laboratory.ScenesPreset.asset"
 	},
 	"Area": 0,
-	"RequiredPlayerLevel": 0,
+	"RequiredPlayerLevel": 1,
 	"surv_gather_minutes": 1,
-	"MinPlayers": 8,
+	"MinPlayers": 6,
 	"MaxPlayers": 10,
 	"sav_gather_minutes": 1,
 	"exit_count": 1,
 	"exit_access_time": 999999999,
-	"exit_time": 2,
+	"exit_time": 1,
 	"Preview": {
 		"path": "",
 		"rcid": ""
 	},
-	"IconX": 156,
-	"IconY": 286,
+	"IconX": 288,
+	"IconY": 611,
 	"filter_ex": [],
 	"waves": [],
 	"limits": [],
 	"AveragePlayTime": 30,
-	"AveragePlayerLevel": 35,
+	"AveragePlayerLevel": 45,
 	"escape_time_limit": 999999999,
 	"Rules": "Normal",
-	"IsSecret": false,
+	"IsSecret": true,
 	"doors": [],
-	"tmp_location_field_remove_me": 0,
+	"tmp_location_field_remove_me": 111,
 	"MinDistToExitPoint": 30,
-	"MaxDistToFreePoint": 550,
-	"MinDistToFreePoint": 110,
-	"MaxBotPerZone": 8,
-	"OpenZones": "ZoneRailStrorage,ZonePTOR1,ZonePTOR2,ZoneBarrack,ZoneBunkerStorage,ZoneSubStorage",
-	"OcculsionCullingEnabled": false,
-	"GlobalLootChanceModifier": 0.7,
+	"MaxDistToFreePoint": 900,
+	"MinDistToFreePoint": 10,
+	"MaxBotPerZone": 0,
+	"OpenZones": "BotZoneMain",
+	"OcculsionCullingEnabled": true,
+	"GlobalLootChanceModifier": 1,
 	"OldSpawn": true,
 	"NewSpawn": false,
 	"BotMax": 0,
@@ -59,27 +59,40 @@
 	"BotAssault": 0,
 	"BotMarksman": 0,
 	"DisabledScavExits": "",
-	"AccessKeys": [],
+	"AccessKeys": [
+		"5c94bbff86f7747ee735c08f"
+	],
 	"MinMaxBots": [],
 	"BotLocationModifier": {
 		"AccuracySpeed": 1,
 		"Scattering": 1,
 		"GainSight": 1,
 		"MarksmanAccuratyCoef": 1,
-		"VisibleDistance": 1
+		"VisibleDistance": 1,
+		"DistToSleep": 160,
+		"DistToActivate": 140,
+		"MagnetPower": 10,
+		"DistToPersueAxemanCoef": 0.7
 	},
 	"exits": [],
-	"DisabledForScav": false,
+	"DisabledForScav": true,
 	"BossLocationSpawn": [],
-	"Id": "RezervBase",
-	"_Id": "5704e5fad2720bc05b8b4567",
+	"Id": "laboratory",
+	"_Id": "5b0fc42d86f7744a585f9105",
 	"Loot": [],
 	"SpawnAreas": [],
 	"Banners": [
 		{
-			"id": "5807bfe124597742a92e0a4c",
+			"id": "5805f617245977100b2c1f41",
 			"pic": {
-				"path": "CONTENT/banners/norvinskzone.jpg",
+				"path": "CONTENT/banners/tglabs.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5807be8924597742c603fa19",
+			"pic": {
+				"path": "CONTENT/banners/banner_tarkov.jpg",
 				"rcid": ""
 			}
 		},

@@ -3,13 +3,6 @@ This folder contains all items related mods for JustEmuTarkov
 
 ## Mod list and description
 
-### AssAssIn-O.F.A.P.-1.0.0 - Made By AssAssIn
-Online Fleamarket Average Pricing
-
-This mod increases the prices of all the items needed for the hideout.
-While they are not dynamic the way official prices are, they relect average sell prices as of 2020/02/25.
-These items also sell for more, to emulate you selling them on the flea to other players, although you still sell them to the regular traders.
-
 ### AssAssIn-Olympus-1.0.3 - Made by AssAssIn
 This mod adds in overpowered armor, magazines with 1000 ammo capacity, overpowered meds, an extra-large backpack, and increases all ammo stacks to 1000.
 
@@ -122,3 +115,9 @@ A basic mod for a first attempt to increase the S I C C case from 5x5 to 8x8
 
 ### Zarf-SuperPropital-1.0.0 - Made by Zarf
 it changes the Propital stim injector to be much more powerful, 5000hp total/100hp per use, 1 second use time, fix fractures, remove pain and tremor, stop blood loss, regen hp
+
+### Kiva-SICCerSICC-1.0.1 - Made by Kiva
+SICC case retains its original size ratio (5x5) with expanded filters. You can now fit magazines (with exceptions, no drums / quad-stacks/particularly long ones), small medical items (like the AI-2, analgin painkillers, epipens), more valuable items (like the Silver Badge, KEKTape, phones, opthalmoscope) and some containers (particularly the keytool, dogtag case and wallet).
+```diff
+- This mod is not compatible with FluffyTail-BiggerSICC-1.0.0
+```
