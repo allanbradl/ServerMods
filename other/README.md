@@ -36,7 +36,7 @@ Sun 6/9
 Rain 2/9
 Fog and/or Clouds 3/9
 
-### ModTarkol-PussyMode-1.1.0
+### ModTarkol-PussyMode-1.1.1
 ModTarkol is a fusion of different mods, which modify the gaming experience:
 1. Insurance of limit objects according to traders and ragfair.
 2. Increased prices on dev and test balaclavas.

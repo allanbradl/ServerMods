@@ -100,6 +100,9 @@ function acceptQuest(pmcData, body, sessionID) {
 
     if(messageContent != ""){
         dialogue_f.dialogueServer.addDialogueMessage(quest.traderId, messageContent, sessionID, questRewards);
+    }else{
+        messageContent = {templateId: questLocale.description, type: dialogue_f.getMessageTypeValue('questStart')};
+        dialogue_f.dialogueServer.addDialogueMessage(quest.traderId, messageContent, sessionID, questRewards);
     };
     
     return item_f.itemServer.getOutput();

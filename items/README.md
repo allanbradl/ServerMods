@@ -121,3 +121,6 @@ SICC case retains its original size ratio (5x5) with expanded filters. You can n
 ```diff
 - This mod is not compatible with FluffyTail-BiggerSICC-1.0.0
 ```
+
+### Deluxxed-50CalMakarov-1.0.0 - Made by Deluxxed
+"This literally only adds the ability to shoot 12.7x108 out of a pm and a pm (t). Enjoy"
