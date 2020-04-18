@@ -25,6 +25,6 @@ EmuTarkov is the author, EnableMultiplayerMod is the name, 1.0.0 is the version 
 # Official links
 **Discord link**: https://discord.gg/3sR4KKS
 
-**Modding Tutorials**: https://github.com/KandaSoranyan/JustEmuTarkovWiki
+**Modding Tutorials**: https://justemutarkov.github.io/Wiki/#/tutorials/create_a_mod
 
 **Reddit page**: https://www.reddit.com/r/EmuTarkov/
