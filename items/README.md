@@ -129,3 +129,6 @@ SICC case retains its original size ratio (5x5) with expanded filters. You can n
 This mod adds a simple container named Modifications case that allows only gun mods inside, magazines exluded.
 Its internal size is 14x14, just like a junkbox.
 Its price is 1000000 roubles on the flea market, or level 2 Mechanic for 7 bitcoins.
+
+### Randomizzatore-SuicideKit-1.0.0 - Made by Randomizzatore
+This mod adds **five SUICIDE grenades**, **one SUICIDE injector**, **one SUICIDE pill** and **one SUICIDE balm** to suicide with style in case of need, like forgetting or not finding painkillers, or wanting to forever escape from Tarkov taking with you whoever is nearby.
