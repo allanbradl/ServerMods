@@ -13,6 +13,7 @@ They can be bought from **Therapist LL1** or from the **Flea Market**!
 * **Unknown injector**
 * **Unknown jar of pills**
 * **Dank Memz balm**
+
 ![Picture of the new items added](info.png)
 
 ### Warning
