@@ -8,7 +8,7 @@ A repository containing mods made for the EmuTarkov-Server
 ## How to install a mod ?
 
 1. Download the desired mod(s)
-2. Add the desired mod folder into ```/user/mods/```, if it doesn't exist, create it !
+2. Extract the desired mod archive into ```/user/mods/```, if it doesn't exist, create it !
 3. The server will automaticaly recache and modify `/server/user/configs/mods.json` to activate the installed mod(s)
 4. Start the server & the game
 
